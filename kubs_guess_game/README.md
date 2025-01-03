@@ -146,7 +146,7 @@
 
 4. **Acessar a aplicação**:
 
-   Abra o navegador e vá para a URL http://localhost:30080 (NodePort).
+   Abra o navegador e vá para a URL http://localhost:30081 (NodePort).
 
    Para encontrar a porta do serviço frontend-svc (NodePort), use:
 
@@ -173,7 +173,7 @@ Aguarde até que todos os pods estejam com o status 'Running'.
 Abra o navegador e vá para a URL:
 
 ```bash
-http://localhost:30080 (NodePort)
+http://localhost:30081 (NodePort)
 
 ```
 
